@@ -18,15 +18,17 @@ A browser extension that automatically formats text copied from QwenLM Chat for 
   - Import/Export settings
   - Smart link formatting
 
+![Extension](https://github.com/Shery-1508/Qwen-WhatsApp-Friendly-Copy-Formatter/blob/600a91ded162dd5e2de9f807b8f69ea0c076214e/edge/icon.png)
+
+![result](https://github.com/Shery-1508/Qwen-WhatsApp-Friendly-Copy-Formatter/blob/600a91ded162dd5e2de9f807b8f69ea0c076214e/edge/icon.png)
+
 ## 📥 Installation
 
+
 ### Microsoft Edge
-1. Visit [Edge Add-ons Store](store-link) *(Coming Soon)*
+1. Visit [Edge Add-ons Store](store-link) *(Coming Soon pending review)*
 2. Click "Add to Edge"
 
-### Firefox
-1. Visit [Firefox Add-ons](store-link) *(Coming Soon)*
-2. Click "Add to Firefox"
 
 ### Manual Installation
 
@@ -49,12 +51,8 @@ A browser extension that automatically formats text copied from QwenLM Chat for 
 7. The extension icon should appear in your toolbar
 
 #### Firefox
-1. Download the [latest release](releases-link)
-2. Open Firefox and go to `about:debugging`
-3. Click "This Firefox" in the left sidebar
-4. Click "Load Temporary Add-on"
-5. Select the manifest.json file from the unzipped folder
-6. The extension icon should appear in your toolbar
+coming soon..
+
 
 ## 🚀 Usage
 
