@@ -1,8 +1,9 @@
 # QwenLM WhatsApp Formatter
 
 A browser extension that automatically formats text copied from QwenLM Chat for WhatsApp compatibility. Perfect for students who use QwenLM to summarize study materials and share them via WhatsApp.
-<img src="/readme%20pics/icon.png" alt="Extension Logo" width="50" height="50">
-
+<br>
+<img src="/readme%20pics/icon.png" alt="Extension Logo" width="100" height="100">
+<br>
 ## 🌟 Features
 
 - **Smart Text Formatting**
