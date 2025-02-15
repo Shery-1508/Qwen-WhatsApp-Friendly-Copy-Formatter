@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "name": "Qwen WhatsApp-Friendly Copy Formatter",
+  "version": "1.0",
+  "description": "Automatically formats copied text from QwenLM chat for WhatsApp",
+  "permissions": [
+    "clipboardWrite",
+    "storage",
+    "commands",
+    "contextMenus",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://chat.qwenlm.ai/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://chat.qwenlm.ai/*"],
+      "js": ["inject.js"],
+      "run_at": "document_start",
+      "world": "MAIN",
+      "all_frames": true
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "256": "icon.png"
+  }
+}
