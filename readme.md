@@ -136,7 +136,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Sheharyar - [Your LinkedIn/Twitter/Contact Info]
+Sheharyar - [https://www.linkedin.com/in/sheharyar-sheharyar]
 
 Project Link: [https://github.com/Shery-1508/Qwen-WhatsApp-Friendly-Copy-Formatter](https://github.com/Shery-1508/Qwen-WhatsApp-Friendly-Copy-Formatter)
 
