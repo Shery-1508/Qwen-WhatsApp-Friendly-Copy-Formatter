@@ -2,7 +2,7 @@
 
 A browser extension that automatically formats text copied from QwenLM Chat for WhatsApp compatibility. Perfect for students who use QwenLM to summarize study materials and share them via WhatsApp.
 
-![Extension Logo](readme pics/icon.png)
+![Extension Logo](Shery-1508/Qwen-WhatsApp-Friendly-Copy-Formatter/readme pics/icon.png)
 
 ## 🌟 Features
 
