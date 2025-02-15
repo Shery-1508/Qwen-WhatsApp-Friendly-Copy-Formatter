@@ -33,7 +33,7 @@ A browser extension that automatically formats text copied from QwenLM Chat for 
 ### Manual Installation
 
 #### Chrome
-1. Download the [latest release](releases-link)
+1. Download the [latest release](https://github.com/Shery-1508/Qwen-WhatsApp-Friendly-Copy-Formatter/releases/tag/v1.0.0)
 2. Unzip the file
 3. Open Chrome and go to `chrome://extensions/`
 4. Enable "Developer mode" (top-right toggle)
@@ -42,7 +42,7 @@ A browser extension that automatically formats text copied from QwenLM Chat for 
 7. The extension icon should appear in your toolbar
 
 #### Microsoft Edge
-1. Download the [latest release](releases-link)
+1. Download the [latest release](https://github.com/Shery-1508/Qwen-WhatsApp-Friendly-Copy-Formatter/releases/tag/v1.0.0)
 2. Unzip the file
 3. Open Edge and go to `edge://extensions/`
 4. Enable "Developer mode" (left sidebar)
@@ -83,7 +83,7 @@ If you want to modify the extension:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Shery-1508/qwen-formatter.git
+git clone https://github.com/Shery-1508/Qwen-WhatsApp-Friendly-Copy-Formatter.git
 ```
 
 2. Install dependencies (if any are added in future)
@@ -138,7 +138,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Sheharyar - [Your LinkedIn/Twitter/Contact Info]
 
-Project Link: [https://github.com/Shery-1508/qwen-formatter](https://github.com/Shery-1508/qwen-formatter)
+Project Link: [https://github.com/Shery-1508/Qwen-WhatsApp-Friendly-Copy-Formatter](https://github.com/Shery-1508/Qwen-WhatsApp-Friendly-Copy-Formatter)
 
 ---
 
