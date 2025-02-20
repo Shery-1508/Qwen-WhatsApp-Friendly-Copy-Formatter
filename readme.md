@@ -26,7 +26,7 @@ A browser extension that automatically formats text copied from QwenLM Chat for 
 
 
 ### Microsoft Edge
-1. Visit [Edge Add-ons Store](store-link) *(Coming Soon pending review)*
+1. Visit [Edge Add-ons Store](https://microsoftedge.microsoft.com/addons/detail/qwen-whatsappfriendly-co/hdnmnagaoicadkknjakglgjiacealaeo) 
 2. Click "Add to Edge"
 
 
@@ -52,7 +52,6 @@ A browser extension that automatically formats text copied from QwenLM Chat for 
 
 #### Firefox
 coming soon..
-![comingsood](/readme%20pics/pendingreview.png)
 
 
 ## 🚀 Usage
